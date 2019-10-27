@@ -1,0 +1,10 @@
+#nl_NL
+item.LeatherWaterSac.name=Leren Drinkzak
+item.WaterSacLeather.name=Leren Drinkzak
+item.Bladder.Sheep.name=Schapen Blaas
+item.Bladder.Cow.name=Cow Bladder
+item.Bladder.Deer.name=Deer Bladder
+
+drink.full=Ik zit vol!
+drink.salt=Bah, dat is zout! Spuug...
+sac.empty=Leeg!

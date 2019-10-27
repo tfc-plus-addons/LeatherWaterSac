@@ -1,0 +1,10 @@
+#de_DE
+item.LeatherWaterSac.name=Lederner Wasserschlauch
+item.WaterSacLeather.name=Lederschlauchhälfte
+item.Bladder.Sheep.name=Schafsblase
+item.Bladder.Cow.name=Kuhblase
+item.Bladder.Deer.name=Rehblase
+
+drink.full=Ich bin Sitt!
+drink.salt=Bääh, das ist total salzig. Bestimmt nicht gesund!
+sac.empty=Da ist kein Tropfen mehr drin!

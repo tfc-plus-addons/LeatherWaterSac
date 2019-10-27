@@ -1,0 +1,10 @@
+#it_IT
+item.LeatherWaterSac.name=Otre
+item.WaterSacLeather.name=Pelle per otre
+item.Bladder.Sheep.name=Vescica di pecora
+item.Bladder.Cow.name=Cow Bladder
+item.Bladder.Deer.name=Deer Bladder
+
+drink.full=Basta così!
+drink.salt=Che schifo, è salata!
+sac.empty=Vuota!
